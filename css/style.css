@@ -1,3 +1,6 @@
+body{
+    font-family: 'IBM Plex Serif', serif;
+}
 .photo-edit{
     background-color: black;
 }
@@ -5,7 +8,4 @@
     height: 70vh;
     object-fit: cover;
     opacity: 0.5;
-}
-.kisu{
-    width: 50%;
 }
